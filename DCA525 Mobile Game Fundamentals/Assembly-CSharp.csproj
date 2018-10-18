@@ -59,13 +59,16 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\AnimationScrpt.cs" />
     <Compile Include="Assets\ToppleBlockScript.cs" />
     <Compile Include="Assets\WinScript.cs" />
-    <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>E:/DCA525 Mobile Game Fundamentals/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
-    </Reference>
+    <None Include="Assets\General Art\Goblin\TXT\license.txt" />
+    <None Include="Assets\General Art\Goblin\TXT\readme.txt" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>E:/DCA525 Mobile Game Fundamentals/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.PackageManagerUI.Editor">
+      <HintPath>E:/DCA525 Mobile Game Fundamentals/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>

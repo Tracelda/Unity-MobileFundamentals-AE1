@@ -57,7 +57,7 @@ public class WinScript : MonoBehaviour {
         {
             // Slider not filling fully
             TimerValue = TimerValue + Time.deltaTime;
-            Slider.value = Mathf.MoveTowards(Slider.value, 100.0f, 0f);
+            Slider.value = Mathf.MoveTowards(Slider.value, 100.0f, 0.15f);
 
             if(TimerValue >= TimerTarget) // not registering as soon as timer is finished
             {
