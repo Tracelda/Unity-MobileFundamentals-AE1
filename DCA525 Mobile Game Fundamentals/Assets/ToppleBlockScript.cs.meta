@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 593da27d113936d4c967397ca0524bf4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ToppleBox: {fileID: 21300000, guid: 0c1ea918f1b2a0e4d8f250d48c283218, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
