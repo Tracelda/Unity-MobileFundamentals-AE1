@@ -59,10 +59,15 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\AnimationScrpt.cs" />
+    <Compile Include="Assets\ButtonScrpt.cs" />
+    <Compile Include="Assets\Scenes\AnimationDemo\AnimationScrpt.cs" />
+    <Compile Include="Assets\Scenes\CookieHampster\Scripts\CoinScript.cs" />
+    <Compile Include="Assets\Scenes\CookieHampster\Scripts\CookieScript.cs" />
+    <Compile Include="Assets\Scenes\CookieHampster\Scripts\JointScrpt.cs" />
+    <Compile Include="Assets\Scenes\EscapeTheRoom\InventoryScrpt.cs" />
+    <Compile Include="Assets\Scenes\Wake The Box\Scripts\ToppleBlockScript.cs" />
+    <Compile Include="Assets\Scenes\Wake The Box\Scripts\WinScript.cs" />
     <Compile Include="Assets\SFXScrpt.cs" />
-    <Compile Include="Assets\ToppleBlockScript.cs" />
-    <Compile Include="Assets\WinScript.cs" />
     <None Include="Assets\General Art\Goblin\TXT\license.txt" />
     <None Include="Assets\General Art\Goblin\TXT\readme.txt" />
     <Reference Include="UnityEditor.StandardEvents">

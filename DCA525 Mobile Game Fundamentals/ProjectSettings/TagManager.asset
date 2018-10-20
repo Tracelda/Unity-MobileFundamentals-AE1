@@ -7,6 +7,20 @@ TagManager:
   - Movable
   - Connecter
   - Floor
+  - TopJoint
+  - BottomJoint
+  - Hampster
+  - Coin
+  - Cookie
+  - Backpack
+  - Item
+  - Poster
+  - Safe
+  - Paper
+  - bignote
+  - Keypad
+  - KeyPadBig
+  - OpenDoor
   layers:
   - Default
   - TransparentFX
@@ -16,7 +30,7 @@ TagManager:
   - UI
   - 
   - 
-  - 
+  - Floor
   - 
   - 
   - 

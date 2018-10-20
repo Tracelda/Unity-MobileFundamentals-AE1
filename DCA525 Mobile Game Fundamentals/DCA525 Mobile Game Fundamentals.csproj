@@ -238,8 +238,20 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\ToppleBlockScript.cs" />
-    <Compile Include="Assets\WinScript.cs" />
+    <Compile Include="Assets\ButtonScrpt.cs" />
+    <Compile Include="Assets\Scenes\AnimationDemo\AnimationScrpt.cs" />
+    <Compile Include="Assets\Scenes\CookieHampster\Scripts\CoinScript.cs" />
+    <Compile Include="Assets\Scenes\CookieHampster\Scripts\CookieScript.cs" />
+    <Compile Include="Assets\Scenes\CookieHampster\Scripts\JointScrpt.cs" />
+    <Compile Include="Assets\Scenes\EscapeTheRoom\Scripts\InventoryScrpt.cs" />
+    <Compile Include="Assets\Scenes\EscapeTheRoom\Scripts\KeyPadScrpt.cs" />
+    <Compile Include="Assets\Scenes\Wake The Box\Scripts\ToppleBlockScript.cs" />
+    <Compile Include="Assets\Scenes\Wake The Box\Scripts\WinScript.cs" />
+    <Compile Include="Assets\SFXScrpt.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\General Art\Goblin\TXT\license.txt" />
+    <None Include="Assets\General Art\Goblin\TXT\readme.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />

@@ -9,5 +9,14 @@ EditorBuildSettings:
     path: Assets/Scenes/MainMenu.unity
     guid: 25e2bfdd36354b34d969f52594ba5458
   - enabled: 1
-    path: Assets/Wake The Box/WakeTheBox.unity
+    path: Assets/Scenes/Wake The Box/WakeTheBox.unity
     guid: 57aa09c9d5034824aba7202a13e2979a
+  - enabled: 1
+    path: Assets/Scenes/CookieHampster/CookieHampster.unity
+    guid: 506fc2cba8febf64ca0ca84fc2c1b07c
+  - enabled: 1
+    path: Assets/Scenes/EscapeTheRoom/EscapeTheRoom.unity
+    guid: 9fa11bc54e87cab468e461fc80d683cd
+  - enabled: 1
+    path: Assets/Scenes/AnimationDemo/AnimationDemo.unity
+    guid: 4dd807d7c2132234a92e927d72102caa

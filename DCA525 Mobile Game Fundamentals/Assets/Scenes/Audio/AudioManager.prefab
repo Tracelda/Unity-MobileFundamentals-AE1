@@ -51,6 +51,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 90f1328c6ab12fc4880d32a0b87b942a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SFXManager: {fileID: 0}
-  SFXName: []
-  SFXAudio: []
+  SFXManager: {fileID: 1223645241492408, guid: 48ce24074d842d24e97c35e2678b1762, type: 2}
+  SFXName:
+  - Jump
+  - Footstep
+  - Attack
+  SFXAudio:
+  - {fileID: 8300000, guid: 6c7477ebec0dd544ead9e41132099780, type: 3}
+  - {fileID: 8300000, guid: bf36f2a29fc72664991c6c9764bf0267, type: 3}
+  - {fileID: 8300000, guid: 00399a615055c3d45857d7a1ccace3f4, type: 3}

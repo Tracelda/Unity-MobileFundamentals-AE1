@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Wake The Box/WakeTheBox.unity
+- path: Assets/Scenes/AnimationDemo/AnimationDemo.unity
   isLoaded: 1
   isActive: 1
